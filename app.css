@@ -1,0 +1,46 @@
+/* Probably could clean this up when I have some time */
+
+input {
+  width: 180px;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+}
+
+.badge {
+  font-size: 16px;
+}
+
+.btn-large {
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 14px;
+  background-color: #f8f8f8;
+}
+
+.doge { /* If you dont understand that the use of Comic Sans is a joke then just give up */
+  font-family: Comic Sans, Comic Sans MS, cursive;
+}
+
+.my_modal_label {
+  margin-bottom: 14px;
+}
+
+.nothingToDelete {
+  margin-bottom: 14px;
+}
+
+.nuke {
+  padding-bottom: 10px;
+  margin-left: 36px;
+}
+
+.search {
+  padding: 4px 22px 7px 22px;
+}
+
+.wait {
+  padding-bottom: 10px;
+}

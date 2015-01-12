@@ -10,7 +10,7 @@ Pull requests are welcome.
 * 'Refresh' button
 
 ### Demo
-![Animated GIF](http://g.recordit.co/1GGkCPjdpA.gif)
+![Animated GIF](http://g.recordit.co/ElYO0ku5CC.gif)
 
 ---
 

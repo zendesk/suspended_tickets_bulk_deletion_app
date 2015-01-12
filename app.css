@@ -2,29 +2,29 @@
   font-family: proxima-nova, sans-serif;
 }
 
+button.btn.filter-all, button.btn.go_back, button.btn.submit, input.form-control {
+  padding: 10px 15px;
+  font-size: 14px;
+}
+
 #image {
   padding-top: 3em;
   padding-right: 3em;
   float: left;
 }
 
-button.btn.filter-all {
-  padding: 10px 15px;
-  font-size: 14px;
-}
-
 .form-control, .submit {
   float: left;
-}
-
-.mainWrapper {
-  padding-left: 3em;
-  padding-right: 3em;
 }
 
 .heading {
   padding-top: 1em;
   text-align: left;
+}
+
+.mainWrapper {
+  padding-left: 3em;
+  padding-right: 3em;
 }
 
 .progressBarWrapper {

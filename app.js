@@ -38,6 +38,7 @@
       
       // DOM Events
       'click .filter-all': 'fetch',
+      'click .go_back': 'init',
       'click .submit': 'processInputValue', // This is confirming the value you entered matches then sending request(s) to delete suspended tickets w the relevant IDs
       'keyup #inputValueId': function(event){
         if(event.keyCode === 13)

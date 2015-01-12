@@ -15,7 +15,7 @@
     <p>Click the button below to gather all suspended tickets that have a cause matching any selected causes in the app's settings.</p>
     <p>&nbsp;</p>
   <div class="getStarted">
-    <button class="btn filter-all" type="button">Find Matching Suspended Tickets</button>
+    <button class="btn filter-all" type="button"><i class="icon-search"></i>&nbsp;&nbsp;Find Matching Suspended Tickets&nbsp;</button>
   </div>
   <p>&nbsp;</p>
   <p style="color:red"><i>Note: Once suspended tickets are bulk deleted they are not recoverable.</i></p>

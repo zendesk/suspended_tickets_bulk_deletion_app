@@ -12,7 +12,7 @@
   <p>&nbsp;</p>
   <div class="input-group">    
     <input type="text" class="form-control" id='inputValueId' placeholder="Enter {{filteredTickets}} here"/>
-    <button class="btn submit">Bulk Delete</button>
+    <button class="btn submit"><i class="icon-trash"></i>&nbsp;&nbsp;Bulk Delete</button>
   </div>
   <p>&nbsp;</p>
   <p>&nbsp;</p>

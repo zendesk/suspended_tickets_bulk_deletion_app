@@ -7,10 +7,10 @@ Pull requests are welcome.
 
 ### Features on the Roadmap
 * Ability to toggle the causes of suspension used within the app so configuration does not require updating the app settings
-* 'Refresh' button
+* 'Refresh' button - - **Update: This was added January 12th, 2015**
 
 ### Demo
-![Animated GIF](http://g.recordit.co/ElYO0ku5CC.gif)
+![Animated GIF](http://g.recordit.co/IpHuKGsgaA.gif)
 
 ---
 

@@ -14,7 +14,7 @@ Pull requests are welcome.
 ### User Guide
 **1 Choose any/all causes of suspension in the app settings**
 
-![](
+![](http://i.imgur.com/zEmb03G.png)
 
 **2 Find all matching suspended tickets**
 

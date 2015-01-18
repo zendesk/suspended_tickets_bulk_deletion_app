@@ -114,7 +114,7 @@
 
         this.ajax('deleteIt', filteredTickets) // Send last batch to 'deleteIt'
           .done( function() {
-              this.switchTo('nuke', {
+              this.switchTo('deleted', {
                 filteredTickets : this.filteredTickets.length
               });
               services.notify('Suspended tickets deleted successfully');

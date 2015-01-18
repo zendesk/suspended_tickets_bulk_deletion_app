@@ -6,7 +6,7 @@
 
 <div class="mainWrapper">
   <div id="image">
-    <img src="{{assetURL "nuke.gif"}}" />
+    <img src="{{assetURL "thatsAllFolks.gif"}}" />
   </div>
   <h1 class="heading">Step 3 of 3</h1>
   <p>&nbsp;</p>

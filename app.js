@@ -1,5 +1,7 @@
 (function () {
 
+  var totalDeletedTickets;
+
   return {
 
     requests: {
@@ -115,6 +117,7 @@
         this.ajax('deleteIt', filteredTickets) // Send last batch to 'deleteIt'
           .done( function() {
               this.switchTo('deleted', {
+                totalDeletedTickets: this.totalDeletedTickets,
                 filteredTickets : this.filteredTickets.length
               });
               services.notify('Suspended tickets deleted successfully');
@@ -212,9 +215,12 @@
 
       var filteredTickets     = this.filteredTickets, 
           // All suspended ticket IDs if cause = any app parameter cause that is TRUE
-          filteredTicketsSize = filteredTickets.length, 
+          filteredTicketsSize = filteredTickets.length,
           // Number of total suspended tickets with cause matching a true checkbox in app settings
           result              = this.$('input#inputValueId').val();
+
+      this.totalDeletedTickets = filteredTicketsSize;
+      // Anchoring 'totalDeletedTickets' too app at the root 'this'
 
       if (result == filteredTickets.length ) {
         this.$('#inputValueId').val('');

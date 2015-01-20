@@ -7,7 +7,7 @@
   },
   "defaultLocale" : "en",
   "singleInstall" : true,
-  "private" : true,
+  "private" : false,
   "location" : "nav_bar",
   "version" : "1.5.1",
   "frameworkVersion" : "1.0",

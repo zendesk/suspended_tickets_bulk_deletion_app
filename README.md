@@ -11,6 +11,12 @@ Pull requests are welcome.
 
 ---
 
+### Demo
+
+![](http://g.recordit.co/dTym0etPUi.gif)
+
+---
+
 ### User Guide
 **1 Choose any/all causes of suspension in the app settings**
 
@@ -18,16 +24,16 @@ Pull requests are welcome.
 
 **2 Find all matching suspended tickets**
 
-![](http://i.imgur.com/WgxHBXt.png)
+![](http://i.imgur.com/MXxeA2j.png)
 
 **3 Confirm the number of suspended tickets that will be bulk deleted. If the value entered does not match the bulk deletion will be prevented**
 
-![](http://i.imgur.com/2ltwNF8.png)
+![](http://i.imgur.com/cgV6yHK.png)
 
 **4 The following displays when all matching suspended tickets have been bulk deleted**
 
-![](http://i.imgur.com/qvGeFks.png)
+![](http://i.imgur.com/zEUEc0P.png)
 
 **5 The following displays when there are not suspended tickets found that match the selected causes of suspension configured in the app's settings**
 
-![](http://i.imgur.com/6ZxOX9W.png)
+![](http://i.imgur.com/sfW9Qgu.png)

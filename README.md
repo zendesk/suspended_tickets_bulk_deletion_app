@@ -18,22 +18,22 @@ Pull requests are welcome.
 ---
 
 ### User Guide
-**1 Choose any/all causes of suspension in the app settings**
+**Choose any/all causes of suspension in the app settings**
 
 ![](http://i.imgur.com/zEmb03G.png)
 
-**2 Find all matching suspended tickets**
+**Step 1 of 3 - Find all matching suspended tickets**
 
 ![](http://i.imgur.com/MXxeA2j.png)
 
-**3 Confirm the number of suspended tickets that will be bulk deleted. If the value entered does not match the bulk deletion will be prevented**
+**Step 2 of 3 - Confirm the number of suspended tickets that will be bulk deleted. If the value entered does not match the bulk deletion will be prevented**
 
 ![](http://i.imgur.com/cgV6yHK.png)
 
-**4 The following displays when all matching suspended tickets have been bulk deleted**
+**Step 3 of 3 - The following displays when all matching suspended tickets have been bulk deleted**
 
 ![](http://i.imgur.com/zEUEc0P.png)
 
-**5 The following displays when there are not suspended tickets found that match the selected causes of suspension configured in the app's settings**
+**The following displays when there are not suspended tickets found that match the selected causes of suspension configured in the app's settings**
 
 ![](http://i.imgur.com/sfW9Qgu.png)

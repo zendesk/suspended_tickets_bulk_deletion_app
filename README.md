@@ -37,3 +37,7 @@ Pull requests are welcome.
 **The following displays when there are not suspended tickets found that match the selected causes of suspension configured in the app's settings**
 
 ![](http://i.imgur.com/sfW9Qgu.png)
+
+##### Look for this in the Zendesk Apps Marketplace
+
+![](http://i.imgur.com/35Lrl9B.png)

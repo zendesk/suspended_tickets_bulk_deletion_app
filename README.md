@@ -1,6 +1,9 @@
 :warning: *Use of this software is subject to important terms and conditions as set forth in the License file* :warning:
 
 # Suspended Ticket Bulk Deletion App
+
+## Description:
+
 A full-page nav bar app for bulk deleting suspended tickets by specified causes of suspension. Enabled causes are configured in the app's settings. The app settings are used to determine which causes of suspension to include when fetching the suspended tickets intended for bulk deletion.
 
 Pull requests are welcome.
@@ -11,7 +14,7 @@ Pull requests are welcome.
 
 ---
 
-### Demo
+## Screenshot(s):
 
 ![](http://g.recordit.co/dTym0etPUi.gif)
 
